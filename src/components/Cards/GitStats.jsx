@@ -81,18 +81,18 @@ export const GitStats = () => {
             <Wrapper>
                 <Title>Github Stats</Title>
                 <GithubDIV1>
-                    <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-masai&langs_count=8&theme=radical" alt="Shubham's GitHub stats" />
+                    <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diptajit1999&langs_count=8&theme=radical" alt="Diptajit's GitHub stats" />
                 </GithubDIV1>
                 <GithubDIV2>
                     <LeftGithubDiv >
-                        <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=shubham-masai&theme=radical" alt="Shubham's GitHub stats" style={{ maxWidth: "100%" }} />
+                        <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=Diptajit1999&theme=radical" alt="Diptajit's GitHub stats" style={{ maxWidth: "100%" }} />
                     </LeftGithubDiv>
                     <RightGithubDiv >
-                         <img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=shubham-masai&theme=radical" alt="GitHub Streak" style={{ maxWidth: "100%" }} />
+                         <img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=Diptajit1999&theme=radical" alt="GitHub Streak" style={{ maxWidth: "100%" }} />
                     </RightGithubDiv>
                 </GithubDIV2>
                 <GithubDiv3>
-                    <img className="react-activity-calendar" src="https://ghchart.rshah.org/FE428E/shubham-masai" alt="Shubham's Github Contribution" style={{ maxWidth: "100%" }} />
+                    <img className="react-activity-calendar" src="https://ghchart.rshah.org/FE428E/Diptajit1999" alt="Shubham's Github Contribution" style={{ maxWidth: "100%" }} />
                 </GithubDiv3>
             </Wrapper>
         </div>

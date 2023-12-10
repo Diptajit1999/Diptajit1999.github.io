@@ -11,7 +11,7 @@ import styled from "styled-components";
 import Contact from "./components/Contact/index.js";
 import About from "./components/About/index.js";
 import Projects from "./components/Projects/index.js";
-// import { GitStats } from "./components/Cards/GitStats.jsx";
+import { GitStats } from "./components/Cards/GitStats.jsx";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -38,7 +38,7 @@ function App() {
             <Projects />
           </Wrapper>
           <Wrapper>
-          {/* <GitStats /> */}
+          <GitStats />
             <Contact />
           </Wrapper>
           <Footer />
@@ -47,5 +47,6 @@ function App() {
     </ThemeProvider>
   );
 }
+
 
 export default App;

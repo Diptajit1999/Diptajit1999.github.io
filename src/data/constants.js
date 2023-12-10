@@ -130,20 +130,20 @@ export const Bio = {
   export const projects = [
     {
       id: 0,
-      title: "Connect",
+      title: "Traveller",
       description:
-        "It is basically a Student Relationship Management Website. It use to connect people over a Masai Community.We have built some features by taking inspiration for Masai LMS. It was a collabarative project built by a team of five members in a span of 5 days. We basically built this website in three Sections.",
+        "Traveller is a website for a travel agency. The website contains details about tourist destinations, tour packages. This website allow people to book their dream destination with in their budgets.",
       image:
         "https://camo.githubusercontent.com/85a26b31ad2318229a9dee204f0a57ac68bcceac290ea33f21527a46f547043d/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f6f74323970646a72393978636f74766b6d6378722e706e67",
       tags: ["HTML", "CSS", "JavaScript", "MockApi"],
-      github: "https://github.com/shubham-masai/adorable-crown-8253",
-      webapp: "https://connect-lms01.netlify.app/",
+      github: "https://github.com/skyjais/resilient-partner-542",
+      webapp: "https://648ff05711e1f629dd64fb2c--visionary-centaur-d4c88a.netlify.app/",
     },
     {
       id: 1,
       title: "Clickit",
       description:
-        "",
+        "Clickit is a Ecommerce website for Shopping Clothes. This website contains details for Clothing products,Verifying user Account and Booking products.",
       image:
         "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o70ain3on4s4dqxkq3j6.png",
       tags: [
@@ -154,15 +154,15 @@ export const Bio = {
     },
     {
       id: 2,
-      title: "CarePill",
-      description: "CarePill is your personal health assistant, created with you in mind. We get it - life can get busy, and it's easy to forget your pills. That's where CarePill steps in to support your well-being",
+      title: "Financia",
+      description: "Our financial website is a comprehensive platform that offers a wide range of financial services to users, similar to the popular PhonePe app. Whether you're looking to make payments, or manage your finances, our website has you covered.",
       image:
         "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfosdxgc1l6nrnunrvo0.png",
       tags: [
-        "HTML", "CSS", "React", "MockApi"
+        "HTML", "CSS", "JavaScript"
       ],
-      github: "https://github.com/shubham-masai/CarePIll",
-      webapp: "https://pill-reminder-qgg7q1rld-shubham-masai1.vercel.app/",
+      github: "https://github.com/UttamVerma/sole-friction-3146",
+      webapp: "https://aquamarine-alfajores-b85955.netlify.app/",
     },
     {
       id: 3,
